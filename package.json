@@ -1,0 +1,21 @@
+{
+  "name": "node-login-system",
+  "version": "1.0.0",
+  "description": "The CTO Frontend and Backend Member builds  Login logic.Open project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CTO-Technology/Node-Login-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CTO-Technology/Node-Login-System/issues"
+  },
+  "homepage": "https://github.com/CTO-Technology/Node-Login-System#readme"
+}
